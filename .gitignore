@@ -1,0 +1,10 @@
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+build/
+*.log
+
+# Keep the packaged Windows apps available in the repository.
+!dist/
+!dist/*.exe
